@@ -1,6 +1,6 @@
 # SON-Algorithm
 
-This assignment focuses on implementing SON-algorithm to find frequent itemsets on a real-world dataset. For this assignment, we use Apache Spark framework to develop a program to find frequent itemsets in two datasets, one simulated dataset and one real-world dataset generated from Yelp dataset.
+This assignment focuses on implementing SON-algorithm to do market basket analysis on a real-world dataset. For this assignment, we use Apache Spark framework to develop a program to find frequent itemsets in two datasets, one simulated dataset and one real-world dataset generated from Yelp dataset.
 
 We are implementing SON algorithm to solve the tasks specified in the [Assignment](Assignment2.pdf) PDF. 
 
